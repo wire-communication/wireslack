@@ -1,26 +1,16 @@
-# Icons, Images, Fonts und anderes gedöns
+# Design Inspiration, nützliche Links etc.
 
-## Icons
+## Inspiration Digital
 
-#### Flaticons (free)
-http://www.flaticon.com/
+#### Awwwards.com 
+http://www.awwwards.com/
 
-#### IconMonstr (free/license)
-http://iconmonstr.com/
-
-#### Steamline (paid)
-http://www.streamlineicons.com/ 
-
-#### Iconfinder (paid)
-https://www.iconfinder.com/
-
-#### Icomoon (free / paid)
-Iconfont Builder with a Iconlibrary
-https://icomoon.io/
+#### CSSDesign Awards
+http://www.cssdesignawards.com/
 
 ---
 
-## Images
+## Images / Inspiration
 
 #### Niice
 https://niice.co/
