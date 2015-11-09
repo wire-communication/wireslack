@@ -41,8 +41,8 @@ http://pttrns.com/
 http://www.mobile-patterns.com/
 
 #### Gute Pinterest Boards zum Thema Webdesign
-https://www.pinterest.com/rsamejima/ux-design-website/
-https://www.pinterest.com/obeymagazine/?redirected=1
+https://www.pinterest.com/rsamejima/ux-design-website/  
+https://www.pinterest.com/obeymagazine/?redirected=1  
 https://www.pinterest.com/kascheppa/web-ui/
 
 ## News Digital / Technology / Inspiration
@@ -118,9 +118,9 @@ http://photoshopetiquette.com/
 ### Tools
 
 #### Prototyping
-http://www.invisionapp.com/
-https://interactions.webflow.com/
-https://www.flinto.com/mac
+http://www.invisionapp.com/  
+https://interactions.webflow.com/  
+https://www.flinto.com/mac  
 http://principleformac.com/
 
 
