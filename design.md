@@ -91,7 +91,7 @@ http://giphy.com/
 ## Fonts
 
 #### Collection Fonts
-http://theultralinx.com/2013/07/top-50-free-fonts/
+http://theultralinx.com/2013/07/top-50-free-fonts/  
 http://www.awwwards.com/100-greatest-free-fonts-collection-for-2015.html
 
 #### Google Fonts (free)
